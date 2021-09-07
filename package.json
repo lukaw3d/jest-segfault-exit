@@ -1,3 +1,10 @@
 {
-  "name": "jest-segfault-exit"
+  "name": "jest-segfault-exit",
+  "scripts": {
+    "test": "jest --no-cache"
+  },
+  "dependencies": {
+    "jest": "^27.1.0",
+    "segfault-handler": "^1.3.0"
+  }
 }
