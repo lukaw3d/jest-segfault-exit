@@ -1,3 +1,5 @@
+To reproduce https://github.com/facebook/jest/issues/11819
+
 ```sh
 $ yarn
 $ yarn test
